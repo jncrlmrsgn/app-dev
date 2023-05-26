@@ -1,5 +1,5 @@
 # Marasigan, Jan Carlo
-[![An old rock in the desert](https://drive.google.com/file/d/1r34N-7G5zBPMq6CjMkdDrQoLuEnULIc5/view?usp=drive_link)
+![](https://drive.google.com/file/d/1r34N-7G5zBPMq6CjMkdDrQoLuEnULIc5/view)
 
 Alegra Heights 2, San Vicente, Santa Maria, Bulacan
 
